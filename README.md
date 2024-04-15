@@ -1,15 +1,10 @@
-# About
+# Bem-vindo ao Pong Game!
+Todo o jogo foi feito com javascript puro, sem nenhum uso de código externo.
 
-The pong game, made simple with p5.js.
-this project was made for testing with git, and to be my first repository here.
-I'm a computer science student at the federal university of ceara.
+# Comandos
 
+Para o player 1 (Barra Esquerda) os comandos são: W & S (Cima e Baixo);
+Para o player 2 (Barra Direita) os comandos são: Key Up & Down (Cima e Baixo).
 
-# To execute
-
-You need a simple server to run the game, I used VS code's Live Server.
-
-# Controls
-
-Player 1: "W" up and "S" down
-Player 2: "Arrow Up" for up and "Arrow Down" for down
+# Sobre
+Todo o desenvolvimento do projeto tem como principio o aprendizado.
